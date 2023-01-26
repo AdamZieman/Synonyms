@@ -3,7 +3,10 @@ package Synonyms.Package;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
 
 /**
  * Constructor instantiates the URL[] corpus, and HashMap<String, <String, Integer>> descriptors, then populates the
